@@ -50,12 +50,3 @@ The **Order Now** button and other CTA buttons (e.g., Redeem Gift) are purely fo
 ### ✅ Footer & Follow Us
 ![Footer Section](screenshots/footer.png)
 
-*(Replace `screenshots/...` with the actual relative paths to your uploaded images in your repo.)*
-
----
-
-## 🚀 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/food-munch.git
