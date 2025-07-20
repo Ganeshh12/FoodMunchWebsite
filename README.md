@@ -35,12 +35,6 @@ The **Order Now** button is purely for UI purpose in this landing page version. 
 
 ## 📸 Screenshots
 
-<div style="text-align: center;">
-<h2>Main Page</h2>
-<img src="[https://res.cloudinary.com/dshohwpwu/image/upload/v1752941628/ARS/login_y0abrf.jpg](https://res.cloudinary.com/dshohwpwu/image/upload/v1753019256/FoodMunch/FM1_ikjlri.png)" alt="gallery-output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
-</div>
-<br/>
-
 ### ✅ Why Choose Us
 ![Why Choose Us]([screenshots/why-choose-us.png](https://res.cloudinary.com/dshohwpwu/image/upload/v1753019254/FoodMunch/FM2_u5fls6.png))
 
