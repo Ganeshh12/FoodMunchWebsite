@@ -19,7 +19,7 @@ It is built with **HTML**, **CSS**, **Bootstrap**, and **Flexbox**, and uses **F
 - ✅ **Font Awesome icons** for elegant visuals.
 
 ⚠️ **Note:**  
-The **Order Now** button and other CTA buttons (e.g., Redeem Gift) are purely for UI purposes in this landing page version. They do not process real payments or navigate to a checkout page.
+The **Order Now** button is purely for UI purposes in this landing page version. It does not process real payments.
 
 ---
 
