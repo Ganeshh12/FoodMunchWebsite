@@ -36,10 +36,10 @@ The **Order Now** button is purely for UI purpose in this landing page version. 
 ## 📸 Screenshots
 
 ### ✅ Hero Section
-![Hero Section](screenshots/hero.png)
+![Hero Section]([screenshots/hero.png](https://res.cloudinary.com/dshohwpwu/image/upload/v1753019256/FoodMunch/FM1_ikjlri.png))
 
 ### ✅ Why Choose Us
-![Why Choose Us](screenshots/why-choose-us.png)
+![Why Choose Us]([screenshots/why-choose-us.png](https://res.cloudinary.com/dshohwpwu/image/upload/v1753019254/FoodMunch/FM2_u5fls6.png))
 
 ### ✅ Explore Menu
 ![Explore Menu](screenshots/explore-menu.png)
