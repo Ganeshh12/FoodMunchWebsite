@@ -33,17 +33,23 @@ The **Order Now** button is purely for UI purpose in this landing page version. 
 
 ---
 
-## 📸 Screenshots
+## 📸 Project Screenshots
 
-### ✅ Why Choose Us
-![Why Choose Us]([screenshots/why-choose-us.png](https://res.cloudinary.com/dshohwpwu/image/upload/v1753019254/FoodMunch/FM2_u5fls6.png))
+<div style="text-align: center;">
+<h2>Main Page</h2>
+<img src="https://res.cloudinary.com/dshohwpwu/image/upload/v1753019256/FoodMunch/FM1_ikjlri.png" alt="gallery-output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+</div>
+<br/>
 
-### ✅ Explore Menu
-![Explore Menu](screenshots/explore-menu.png)
+<div style="text-align: center;">
+<h2>Explore Menu</h2>
+<img src="https://res.cloudinary.com/dshohwpwu/image/upload/v1753019256/FoodMunch/FM3_qosf8z.png" alt="gallery-output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+</div>
+<br/>
 
-### ✅ Delivery & Payment
-![Delivery & Payment](screenshots/delivery-payment.png)
-
-### ✅ Footer & Follow Us
-![Footer Section](screenshots/footer.png)
+<div style="text-align: center;">
+<h2>Delivery & Payment</h2>
+<img src="https://res.cloudinary.com/dshohwpwu/image/upload/v1753019252/FoodMunch/FM4_foy5dl.png" alt="gallery-output" style="max-width:70%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+</div>
+<br/>
 
